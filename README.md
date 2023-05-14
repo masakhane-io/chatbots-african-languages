@@ -7,3 +7,5 @@ Open-domain conversational systems for African Languages
 * Nigerian Pidin
 * Kinyarwanda
 * Wolof
+
+## Accepted at IJCNN 2023
